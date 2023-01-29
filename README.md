@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Healy
  
-- 👀 I’m interested in find my first wb development job and learning throught the process.
+- 👀 I’m interested in finding my first web development job and learning throught the process.
  
 - 🌱 I’m currently teaching myself Ruby on rails.
  
